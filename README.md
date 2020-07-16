@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cats](./cats.jpg)
+![cats](https://raw.githubusercontent.com/re1/re1/master/cats.jpg)
